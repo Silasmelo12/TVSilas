@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="TV Aberta",ABC News
+https://www.youtube.com/user/NewsOnABC/live
 #EXTINF:-1 group-title="TV Aberta",Bloomberg Globo News
 https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 #EXTINF:-1 group-title="ANIMES 24 HORAS",24H NARUTO CLASSICO T01
